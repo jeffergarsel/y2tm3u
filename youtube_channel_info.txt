@@ -1,8 +1,0 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-CNN SPANISH | Spanish | https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/800px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png |
-https://www.youtube.com/watch?v=fpkLCyxaKYs
-
-HUM TV HD  | Pakistan | https://hum.tv/wp-content/uploads/2022/03/logo-2.png |
-https://www.youtube.com/watch?v=ZrZo9gSOZL4
