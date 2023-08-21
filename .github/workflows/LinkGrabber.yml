@@ -26,3 +26,6 @@ jobs:
           git add -A
           git commit -m "./youtubeLink.txt is updated."
           git push
+          
+permissions:
+  contents: write
